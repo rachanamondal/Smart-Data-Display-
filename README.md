@@ -16,9 +16,9 @@ A full-stack mini web app that scrapes real-world data from public sources (book
 
 📁 Project Structure
 
-smart-data-display/
+smart-data-display/ 
 backend/ 
-app.py       ← Flask API server   
+app.py       ← Flask API server                         
 books.json   ← Sample scraped data news.json 
 vscode.json  
 github.json 
