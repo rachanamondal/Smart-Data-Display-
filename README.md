@@ -23,7 +23,8 @@ books.json   ← Sample scraped data news.json
 vscode.json  
 github.json 
 frontend/ 
-index.html    ← Main webpage  style.css     ← Styling 
+index.html    ← Main webpage  
+style.css     ← Styling 
 script.js     ← Logic (fetch + tabs + search) 
 
 
