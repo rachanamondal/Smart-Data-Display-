@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+.container {
+  max-width: 960px;
+  margin: auto;
+}
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.tab-button {
+  padding: 10px 20px;
+  border: none;
+  background: #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.tab-button.active {
+  background: #4caf50;
+  color: white;
+}
+#search {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px #ccc;
+}
+.card a {
+  color: #007bff;
+  text-decoration: none;
+}
